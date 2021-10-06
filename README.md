@@ -1,4 +1,4 @@
-# M4OEP-Graphics-chliberm
+# Newton's Apples
 This program is a game called "Newton's Apples" where the goal is to catch all the falling apples from
 the tree with your basket.
 
